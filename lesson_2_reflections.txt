@@ -1,0 +1,8 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: Create a hidden directory, and have all history and status on it. I did it because i need to have a backup and
+   to be more confident while i'm writting my code.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it 
+   offers?
+A: Staging area contains just files are added, it's an interediate between working directory and repository.
+
