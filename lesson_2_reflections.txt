@@ -4,5 +4,21 @@ A: Create a hidden directory, and have all history and status on it. I did it be
 
 Q: How is the staging area different from the working directory and the repository? What value do you think it 
    offers?
-A: Staging area contains just files are added, it's an interediate between working directory and repository.
+A: Staging area contains just files are added, it's an intermediate between working directory and repository.
 
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: to add all changing file and after make a commit
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches
+   help?
+A: Branches can help when we want make a new version for testing something, and it helpful because we have always
+   the main branches not changed.
+
+Q: How do the diagrams help you visualize the branch structure?
+A: to see detached branch, and also the relation between commits.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: To have one branch with all commits.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: Manually helps you to resolve conflicts   
